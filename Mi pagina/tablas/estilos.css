@@ -1,0 +1,95 @@
+.body{
+    background-color: rgb(159, 165, 252);
+}
+
+.t11{
+    background-color: rgb(241, 67, 67);
+    text-align: left;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    width: 100%;
+}
+
+.t12{
+    background-color: rgb(0, 64, 184);
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    text-align: right;
+    width: 100%;
+    
+
+}
+
+.t13{
+    background-color: slateblue;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    text-align: left;
+    width: 100%;
+
+}
+
+.t21{
+    background-color: rgb(62, 161, 253);
+    text-align: left;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    width: 100%;
+}
+
+.t22{
+    background-color: yellow;
+    text-align: right;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    width: 100%;
+}
+
+.t23{
+    background-color: white;
+    text-align: left;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    width: 100%;
+}
+
+.div1{
+    background-color: rgb(105, 172, 5);
+    
+}
+
+.div2{
+    background-color: red;
+    
+}
+
+.div3{
+    background-color: purple;
+    
+}
+
+.letrab{
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+}
+
+.borde1{
+    border: 10px outset rgb(104, 104, 104);
+    width: 100%;
+    
+}
+
+.tabla21{
+    width: 100%;
+    border: 5px outset grey;
+}
+
+.tabla22{
+    width: 100%;
+    border: 5px outset grey;
+}
+
+.mar{
+    margin: -2px;
+}
