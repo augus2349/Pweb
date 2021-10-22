@@ -1,0 +1,91 @@
+@font-face {
+
+    font-family: fuentepaco;
+    
+    src: url(Fuente/digital-7.ttf);
+    
+    }
+
+.fondoimagen{
+    background-image: url(media/pato.jpg);
+    width: 100%;
+    background-repeat:no-repeat;
+    text-align: center;
+    background-size: 10rem;/*Tamaño especifico de las imagenes de fondo*/
+    padding: 25px;
+    
+}
+
+body{
+    background-color: #ff1900 ;
+    font-family: sans-serif;
+    padding: 5em;
+    
+}
+
+
+.fondoblanco{
+    background-color: white;
+}
+
+.fondoazul{
+    background-color: rgb(67, 93, 241);
+    
+}
+
+.fondonegro{
+    background-color: black;
+
+}
+
+.texto1{
+
+        text-align: center;
+        font-size: 5em;
+        color: darkgray;
+}
+.texto2{
+
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    font-size: 1em;
+    color: white;
+    font-family: fuentepaco;
+    text-align: justify;
+
+}
+
+.texto3{
+
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
+
+}
+
+.texto4{
+
+    font-size: 2em;
+    color: white;
+    text-align: left;
+
+}
+
+.imagenEstilo{
+
+    width: 100%;
+    text-align: center;
+}
+
+.bordeblanco{
+    border: 20px solid white;
+    border-radius: 15px;
+
+}
+
+.separa{
+
+    padding: 1em;
+}
