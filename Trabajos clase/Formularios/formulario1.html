@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div>
+        <h1>FORMULARIO</h1>
+    </div>
+
+    <form action="control.php" method="get">
+        <p> Nombre: <input type="text" name="nombre" required autofocus> </p>
+        <p> Año de nacimiento <input type="number" name="nacimiento" min="1975" max="2100"></p>
+        <p> Email <input type="email" name="correo" placeholder="Correco que termine en mx"></p>
+        <p> Tarjeta <input type="text" name="NoTrajeta" maxlength=16 placeholder="Ingrese su tarjeta de 16 digitos"></p>
+        <hr>
+        <p> Genero
+            <input type="radio" name="hombre" value="h">hombre
+            <input type="radio" name="mujer" value="m">mujer
+            <input type="radio" name="otro" value="o">otro
+        </p>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Borrar">
+
+        <BUtton type="submit">
+
+            <img src="MINI.jpg" alt="minidrive" width=35 height=35>
+
+        </BUtton>
+
+    </form>
+
+</body>
+</html>
